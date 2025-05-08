@@ -1,0 +1,8 @@
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Node.js (if using npm)
+node_modules/
